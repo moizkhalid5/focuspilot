@@ -55,12 +55,11 @@ FocusPilot puts those workflows in a single tenant-scoped workspace, where a tas
 
 Screenshots live in [`assets/`](assets/).
 
-<!--
+
 | | |
 |---|---|
-| ![Today dashboard](assets/today.png) | ![Task board](assets/tasks-board.png) |
-| ![AI assistant](assets/assistant.png) | ![Finance](assets/finance.png) |
--->
+| ![Today dashboard](assets/today.png) | ![Calendar](assets/calendar.png) |
+| ![AI assistant](assets/assistant.png) | ![Trade](assets/trade.png) |
 
 _Coming soon._
 
