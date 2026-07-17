@@ -61,8 +61,6 @@ Screenshots live in [`assets/`](assets/).
 | ![Today dashboard](assets/today.png) | ![Calendar](assets/calendar.png) |
 | ![AI assistant](assets/assistant.png) | ![Trade](assets/trade.png) |
 
-_Coming soon._
-
 ---
 
 ## Links
